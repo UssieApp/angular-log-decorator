@@ -1,0 +1,20 @@
+{
+  "name": "angular-log-decorator",
+  "version": "1.0.0",
+  "description": "Add helpful information to $log method output for AngularJS.",
+  "main": "src/http-log-decorator.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/UssieApp/angular-log-decorator.git"
+  },
+  "author": "Tom O'Reilly, Ussie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/UssieApp/angular-log-decorator/issues"
+  },
+  "keywords": [
+    "angular",
+    "log"
+  ],
+  "homepage": "http://www.ussie.rocks/"
+}

@@ -1,0 +1,16 @@
+{
+  "author": "Tom O'Reilly, Ussie",
+  "name": "angular-log-decorator",
+  "homepage": "http://www.ussie.rocks/",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/UssieApp/angular-log-decorator"
+  },
+  "main": "./src/http-log-decorator.js",
+  "dependencies": {
+    "angular": "^1.2"
+  },
+  "ignore": [
+    "package.json"
+  ]
+}
